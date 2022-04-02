@@ -65,7 +65,7 @@
               </ul>
             </div>
             <div class="copyright-text">
-              <p>Copyright 2019 - Jayed</p>
+              <p>Copyright 2022 - Jayed</p>
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@
           </div>
           <div class="left-image-post">
             <div class="row">
-              <div class="col-md-1">
+              <div class="col-md-6">
                 <div class="left-image">
                   <img src="assets/images/cv_img.jpg"/>
                 </div>
@@ -93,7 +93,9 @@
                   <h4>Hire Me</h4>
                   <p>
                     ⚪ I can build basic websites for your personal </br>portfolio / orgranization / business.</br>
+                    </break>
                     ⚪ Analyse / visualize your data for </br>your busniess / projects.</br>
+                    </break>
                     ⚪ Optimize / Manage your databases.
                   </p>
                   <div class="white-button">
