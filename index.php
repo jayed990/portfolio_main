@@ -84,11 +84,6 @@
           <div class="left-image-post">
             <div class="row">
               <div class="col-md-6">
-                <div class="left-image">
-                  <img src="assets/images/cv_img.jpg"/>
-                </div>
-              </div>
-              <div class="col-md-6">
                 <div class="right-text">
                   <h4>Hire Me</h4>
                   <p>
@@ -97,8 +92,8 @@
                     ⚪ Analyse / visualize your data for </br>your busniess / projects.</br>
                     <br> </br>
                     ⚪ Optimize / Manage your databases.
-                  </p>
-                  <br> </br>
+                    <br> </br>
+                  </p> 
                   <div class="white-button">
                     <a href="assets/cv.pdf">Resume</a>
                   </div>
@@ -177,8 +172,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>First Title</h4>
-                      <span>free to use our template</span>
+                      <h4>JAVA Software</h4>
+                      <span>Requisiton Application</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -196,8 +191,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>Second Title</h4>
-                      <span>please tell your friends</span>
+                      <h4>MySQL Database</h4>
+                      <span>Database Management</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -215,8 +210,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>Item Third</h4>
-                      <span>customize anything</span>
+                      <h4>Machine Learning</h4>
+                      <span>Training Models</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -234,8 +229,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>Item Fourth</h4>
-                      <span>Re-distribution not allowed</span>
+                      <h4>Machine Learning</h4>
+                      <span>Testing Models</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -253,8 +248,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>Fifth Awesome</h4>
-                      <span>Ut sollicitudin risus</span>
+                      <h4>Artificial Intelligence</h4>
+                      <span>Implementing Models</span>
                     </figcaption>
                   </figure>
                 </div>
@@ -272,8 +267,8 @@
                         data-title="Caption"
                         ><i class="fa fa-search"></i
                       ></a>
-                      <h4>Awesome Sixth</h4>
-                      <span>Donec eget massa ante</span>
+                      <h4>Artificial Intelligence</h4>
+                      <span>Genertaing Data</span>
                     </figcaption>
                   </figure>
                 </div>
