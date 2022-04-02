@@ -98,6 +98,7 @@
                     <br> </br>
                     ⚪ Optimize / Manage your databases.
                   </p>
+                  <br> </br>
                   <div class="white-button">
                     <a href="assets/cv.pdf">Resume</a>
                   </div>
