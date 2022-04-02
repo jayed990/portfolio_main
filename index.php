@@ -83,7 +83,7 @@
           </div>
           <div class="left-image-post">
             <div class="row">
-              <div class="col-md-6">
+              <div class="col-md-1">
                 <div class="left-image">
                   <img src="assets/images/cv_img.jpg"/>
                 </div>
