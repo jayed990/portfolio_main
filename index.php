@@ -93,9 +93,9 @@
                   <h4>Hire Me</h4>
                   <p>
                     ⚪ I can build basic websites for your personal </br>portfolio / orgranization / business.</br>
-                    </break>
+                    <br> </br>
                     ⚪ Analyse / visualize your data for </br>your busniess / projects.</br>
-                    </break>
+                    <br> </br>
                     ⚪ Optimize / Manage your databases.
                   </p>
                   <div class="white-button">
